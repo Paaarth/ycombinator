@@ -1,0 +1,67 @@
+body {
+    background-color: #f6f6ef;
+    color: #333;
+}
+.navbar {
+    background-color: #ff6600;
+}
+.navbar-brand {
+    font-weight: bold;
+    color: #000 !important;
+}
+.story-card {
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.story-title {
+    font-size: 1.1rem;
+    color: #000;
+    text-decoration: none;
+}
+.story-title:hover {
+    text-decoration: underline;
+}
+.story-meta {
+    font-size: 0.8rem;
+    color: #828282;
+}
+.story-url {
+    color: #828282;
+    font-size: 0.8rem;
+}
+.comment {
+    background-color: #fff;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 15px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.comment-meta {
+    font-size: 0.8rem;
+    color: #828282;
+    margin-bottom: 5px;
+}
+.comment-text {
+    font-size: 0.9rem;
+    line-height: 1.4;
+}
+.user-profile {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.loading {
+    text-align: center;
+    padding: 20px;
+}
+.active-tab {
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+}
+.hn-icon {
+    color: #ff6600;
+}
