@@ -4,8 +4,6 @@
 
 A modern Hacker News client built with Bootstrap and JavaScript that uses the official HN API.
 
-![HN Reader Screenshot](screenshot.png) _(Add a screenshot if available)_
-
 ## Features
 
 - View top/new/best stories
